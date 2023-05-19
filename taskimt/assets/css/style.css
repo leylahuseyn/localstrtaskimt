@@ -1,0 +1,115 @@
+.yalniz-online{
+    border: 1.5px solid rgb(174, 9, 9);
+    border-radius: 10px;
+    color: rgb(174, 9, 9) !important;
+    height: 40px;
+}
+.nav-item:hover .yalniz-online{
+    background-color: rgb(174, 9, 9) !important;
+    color: white !important;
+}
+nav{
+   border-bottom: 1px solid silver;
+}
+.logo{
+    border-right: 1px solid silver;
+    padding-right: 20px;
+}
+.irsad{
+    width: 8%;
+}
+.kataloq{
+    background-color: rgb(8, 182, 8);
+    border: none;
+    height: 40px;
+    align-items:  center;
+    border-radius: 5px;
+}
+.bars{
+    color: white;
+    font-size: 20px;
+    align-items:  center;
+}
+
+.balance{
+    display: flex;
+    flex-direction: column;
+}
+.ayliq{
+    border: 1px solid rgb(8, 182, 8);
+    border-radius: 5px;
+    width: 170px;
+    text-align: center;
+    height: 65px;
+    color: rgb(8, 182, 8);
+}
+.ayliq:hover{
+    background-color: rgb(8, 182, 8);
+    color: white;
+}
+.lass{
+    display: flex;
+    flex-direction: row;
+}
+.icons{
+    font-size: 22px;
+    display: flex;
+    justify-content: flex-end;
+    color: silver;
+}
+.div{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: none;
+    background-color: aqua;
+}
+.div1{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: none;
+    background-color: yellow;
+}
+.div2{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: none;
+    background-color: silver;
+}
+.div3{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: none;
+    background-color: purple;
+}
+.star{
+    color: orange;
+}
+.faizsiz{
+    background-color: rgb(189, 229, 251);
+    color: blue;
+    border: none;
+    border-radius: 5px;
+}
+.ucuz{
+    border-radius: 5px;
+}
+.stok{
+    border: 1px solid blue;
+    border-radius: 5px;
+    color: blue;
+}
+.sebet:hover{
+    background-color: white;
+    color: rgb(8, 182, 8);
+}
+.sebet{
+    border: none;
+    border-radius: 5px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+}
